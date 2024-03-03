@@ -1,0 +1,6 @@
+.env
+node_modules
+.vercel
+mail.js
+local.js
+CORS.md
